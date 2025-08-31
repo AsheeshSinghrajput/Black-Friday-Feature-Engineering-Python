@@ -8,3 +8,15 @@ I started with the Age column, which was categorical, and applied a mapping func
 Next, I handled missing values. The Product_Category_1 column had 245,982 missing values, Product_Category_2 had 545,809, and Purchase had 233,599. I used statistical methods to impute the missing values in Product_Category_1 and Product_Category_2. The missing values in Purchase were acceptable, as this column is the target variable and would be naturally split when dividing the dataset into training and test sets for model training.
 
 To explore the data further, I created bar plots to visualize relationships such as Age vs Purchase, Product_Category_1 vs Purchase, Product_Category_2 vs Purchase, and Product_Category_3 vs Purchase. After that, I performed feature scaling and proceeded with model training.
+
+## Dataset used
+
+-<a href="https://github.com/AsheeshSinghrajput/Black-Friday-Feature-Engineering-Python/blob/main/train.csv">Dataset</a>
+
+-<a href="https://github.com/AsheeshSinghrajput/Black-Friday-Feature-Engineering-Python/blob/main/test.csv">Dataset</a>
+
+## Python Code
+
+-<a href="https://github.com/AsheeshSinghrajput/Zomato-Python-EDA/blob/main/Zomato%20Exploratory%20Data%20Analysis.ipynb"> Jupyter Notebook</a>
+
+
