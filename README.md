@@ -19,4 +19,14 @@ To explore the data further, I created bar plots to visualize relationships such
 
 -<a href="https://github.com/AsheeshSinghrajput/Zomato-Python-EDA/blob/main/Zomato%20Exploratory%20Data%20Analysis.ipynb"> Jupyter Notebook</a>
 
+## Work Samples
 
+<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/47fc74c9-19ad-4acc-986a-4d117426eb99" />
+
+<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/86dcb8fa-fa0c-47e1-bbf8-e1d40e8ac52c" />
+
+<img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/382983c2-90b9-43e7-96c7-4f6820ec73e0" />
+
+<img width="1920" height="1080" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/06ec88a6-23e6-41c1-89a0-48dc41db402a" />
+
+<img width="1920" height="1080" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/f2f62a08-d7b5-40f4-a5ee-eeaefabb427a" />
